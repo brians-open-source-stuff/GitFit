@@ -4,6 +4,7 @@
   "description": "An open source fitness tracker web application for developers",
   "main": "index.js",
   "scripts": {
+    "start": "parcel src/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
